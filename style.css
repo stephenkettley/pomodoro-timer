@@ -1,5 +1,22 @@
-body {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+.container {
+    margin: 0 auto;
+    max-width: 400px;
+    text-align: center;
+    padding: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+
+}
+
+.title {
+    font-size: 36px;
+    margin-bottom: 20px;
+    color: #2c3e50;
+}
+
+.timer {
+    font-size: 50px;
+    padding: 20px;
+    color: #2c3e50;
 }
 
 #btn-start {
@@ -30,4 +47,11 @@ button {
     border: none;
     padding: 10px 20px;
     border-radius: 7px;
+    font-size: 20px;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+
+button:hover {
+    transform: scale(0.98);
 }
