@@ -1,0 +1,33 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#btn-start {
+    background-color: rgb(69, 194, 69);
+}
+
+#btn-stop {
+    background-color: rgb(231, 69, 69);
+}
+
+#btn-reset {
+    background-color: rgb(159, 159, 159);
+}
+#btn-start:hover {
+    background-color: rgb(93, 220, 93);
+}
+
+#btn-stop:hover {
+    background-color: rgb(246, 113, 113);
+}
+
+#btn-reset:hover {
+    background-color: rgb(198, 198, 198);
+}
+
+button {
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 7px;
+}
