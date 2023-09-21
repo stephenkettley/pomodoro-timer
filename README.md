@@ -1,2 +1,6 @@
-# Pomodoro Timer (JS Project #7)
+# Pomodoro Timer
+
 A Pomodoro timer built using HTML, CSS and JS.
+
+![Uploading image.png…]()
+
